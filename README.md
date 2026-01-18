@@ -25,3 +25,7 @@ Pipeline de dados para coletar informações de filmes da API do TMDb.
 ## API Key
 
 Obtenha uma API key gratuita em: https://www.themoviedb.org/
+
+## Contribuindo
+
+Contribuições são bem-vindas!
