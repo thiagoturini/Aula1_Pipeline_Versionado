@@ -1,0 +1,53 @@
+2026-01-18 13:38:44,704 - pipeline - INFO - Inicializando MoviePipeline
+2026-01-18 13:38:44,705 - pipeline - INFO - MoviePipeline inicializado
+2026-01-18 13:38:44,709 - pipeline - INFO - INICIANDO EXECUÇÃO DO PIPELINE
+2026-01-18 13:38:44,709 - pipeline - INFO - ==================================================
+2026-01-18 13:38:44,710 - pipeline - INFO - Iniciando coleta de 10 filmes populares
+2026-01-18 13:38:44,986 - pipeline - INFO - Coletando detalhes de 10 filmes
+2026-01-18 13:38:44,986 - pipeline - INFO - Progresso: 1/10
+2026-01-18 13:38:45,217 - pipeline - INFO - Filme processado: Predador: Terras Selvagens
+2026-01-18 13:38:45,720 - pipeline - INFO - Progresso: 2/10
+2026-01-18 13:38:45,930 - pipeline - INFO - Filme processado: Icefall
+2026-01-18 13:38:46,433 - pipeline - INFO - Progresso: 3/10
+2026-01-18 13:38:46,651 - pipeline - INFO - Filme processado: Dinheiro Suspeito
+2026-01-18 13:38:47,153 - pipeline - INFO - Progresso: 4/10
+2026-01-18 13:38:47,362 - pipeline - INFO - Filme processado: Avatar: Fogo e Cinzas
+2026-01-18 13:38:47,866 - pipeline - INFO - Progresso: 5/10
+2026-01-18 13:38:48,162 - pipeline - INFO - Filme processado: Zootopia 2
+2026-01-18 13:38:48,667 - pipeline - INFO - Progresso: 6/10
+2026-01-18 13:38:48,892 - pipeline - INFO - Filme processado: O Tanque de Guerra
+2026-01-18 13:38:49,395 - pipeline - INFO - Progresso: 7/10
+2026-01-18 13:38:49,695 - pipeline - INFO - Filme processado: A Empregada
+2026-01-18 13:38:50,199 - pipeline - INFO - Progresso: 8/10
+2026-01-18 13:38:50,424 - pipeline - INFO - Filme processado: Bingo Bongo
+2026-01-18 13:38:50,925 - pipeline - INFO - Progresso: 9/10
+2026-01-18 13:38:51,249 - pipeline - INFO - Filme processado: A Guerra dos Mundos
+2026-01-18 13:38:51,756 - pipeline - INFO - Progresso: 10/10
+2026-01-18 13:38:51,986 - pipeline - INFO - Filme processado: Boca de Fumo
+2026-01-18 13:38:52,490 - pipeline - INFO - Coleta concluída: 10 sucesso, 0 erros
+2026-01-18 13:38:52,491 - pipeline - INFO - Salvando 10 filmes
+2026-01-18 13:38:52,492 - pipeline - DEBUG - Filme 1242898 salvo em dados/filme_1242898.json
+2026-01-18 13:38:52,492 - pipeline - DEBUG - Filme 1242501 salvo em dados/filme_1242501.json
+2026-01-18 13:38:52,493 - pipeline - DEBUG - Filme 1306368 salvo em dados/filme_1306368.json
+2026-01-18 13:38:52,493 - pipeline - DEBUG - Filme 83533 salvo em dados/filme_83533.json
+2026-01-18 13:38:52,493 - pipeline - DEBUG - Filme 1084242 salvo em dados/filme_1084242.json
+2026-01-18 13:38:52,494 - pipeline - DEBUG - Filme 1252037 salvo em dados/filme_1252037.json
+2026-01-18 13:38:52,494 - pipeline - DEBUG - Filme 1368166 salvo em dados/filme_1368166.json
+2026-01-18 13:38:52,494 - pipeline - DEBUG - Filme 62029 salvo em dados/filme_62029.json
+2026-01-18 13:38:52,494 - pipeline - DEBUG - Filme 755898 salvo em dados/filme_755898.json
+2026-01-18 13:38:52,494 - pipeline - DEBUG - Filme 628847 salvo em dados/filme_628847.json
+2026-01-18 13:38:52,494 - pipeline - INFO - Todos os filmes salvos
+2026-01-18 13:38:52,494 - pipeline - INFO - Criando índice
+2026-01-18 13:38:52,495 - pipeline - INFO - Índice criado: 10 filmes
+2026-01-18 13:38:52,495 - pipeline - INFO - Gerando relatório
+2026-01-18 13:38:52,495 - pipeline - INFO - ==================================================
+2026-01-18 13:38:52,495 - pipeline - INFO - RELATÓRIO DA COLETA
+2026-01-18 13:38:52,496 - pipeline - INFO - ==================================================
+2026-01-18 13:38:52,497 - pipeline - INFO - Total de filmes: 10
+2026-01-18 13:38:52,497 - pipeline - INFO - Nota média: 6.73/10
+2026-01-18 13:38:52,497 - pipeline - INFO - Bem avaliados (>= 7.0): 6
+2026-01-18 13:38:52,498 - pipeline - INFO - Lucrativos: 4
+2026-01-18 13:38:52,498 - pipeline - INFO - Erros: 0
+2026-01-18 13:38:52,498 - pipeline - INFO - ==================================================
+2026-01-18 13:38:52,499 - pipeline - INFO - ==================================================
+2026-01-18 13:38:52,499 - pipeline - INFO - PIPELINE CONCLUÍDO COM SUCESSO
