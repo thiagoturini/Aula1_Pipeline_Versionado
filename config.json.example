@@ -1,0 +1,7 @@
+{
+  "tmdb": {
+    "api_key": "SUA_API_KEY_AQUI",
+    "base_url": "https://api.themoviedb.org/3",
+    "language": "pt-BR"
+  }
+}
