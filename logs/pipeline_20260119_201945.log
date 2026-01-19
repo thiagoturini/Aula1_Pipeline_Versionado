@@ -1,0 +1,53 @@
+2026-01-19 20:19:45,638 - pipeline - INFO - Inicializando MoviePipeline
+2026-01-19 20:19:45,639 - pipeline - INFO - MoviePipeline inicializado
+2026-01-19 20:19:49,492 - pipeline - INFO - INICIANDO EXECUÇÃO DO PIPELINE
+2026-01-19 20:19:49,492 - pipeline - INFO - ==================================================
+2026-01-19 20:19:49,493 - pipeline - INFO - Iniciando coleta de 10 filmes populares
+2026-01-19 20:19:49,804 - pipeline - INFO - Coletando detalhes de 10 filmes
+2026-01-19 20:19:49,805 - pipeline - INFO - Progresso: 1/10
+2026-01-19 20:19:50,042 - pipeline - INFO - Filme processado: Dinheiro Suspeito
+2026-01-19 20:19:50,546 - pipeline - INFO - Progresso: 2/10
+2026-01-19 20:19:50,815 - pipeline - INFO - Filme processado: Predador: Terras Selvagens
+2026-01-19 20:19:51,321 - pipeline - INFO - Progresso: 3/10
+2026-01-19 20:19:51,572 - pipeline - INFO - Filme processado: Avatar: Fogo e Cinzas
+2026-01-19 20:19:52,078 - pipeline - INFO - Progresso: 4/10
+2026-01-19 20:19:52,388 - pipeline - INFO - Filme processado: Icefall
+2026-01-19 20:19:52,892 - pipeline - INFO - Progresso: 5/10
+2026-01-19 20:19:53,141 - pipeline - INFO - Filme processado: Zootopia 2
+2026-01-19 20:19:53,648 - pipeline - INFO - Progresso: 6/10
+2026-01-19 20:19:53,959 - pipeline - INFO - Filme processado: A Empregada
+2026-01-19 20:19:54,465 - pipeline - INFO - Progresso: 7/10
+2026-01-19 20:19:54,716 - pipeline - INFO - Filme processado: O Tanque de Guerra
+2026-01-19 20:19:55,221 - pipeline - INFO - Progresso: 8/10
+2026-01-19 20:19:55,536 - pipeline - INFO - Filme processado: Bingo Bongo
+2026-01-19 20:19:56,038 - pipeline - INFO - Progresso: 9/10
+2026-01-19 20:19:56,298 - pipeline - INFO - Filme processado: A Guerra dos Mundos
+2026-01-19 20:19:56,799 - pipeline - INFO - Progresso: 10/10
+2026-01-19 20:19:57,107 - pipeline - INFO - Filme processado: Demon Slayer: Kimetsu no Yaiba Castelo Infinito
+2026-01-19 20:19:57,614 - pipeline - INFO - Coleta concluída: 10 sucesso, 0 erros
+2026-01-19 20:19:57,615 - pipeline - INFO - Salvando 10 filmes
+2026-01-19 20:19:57,617 - pipeline - DEBUG - Filme 1306368 salvo em dados/filme_1306368.json
+2026-01-19 20:19:57,618 - pipeline - DEBUG - Filme 1242898 salvo em dados/filme_1242898.json
+2026-01-19 20:19:57,618 - pipeline - DEBUG - Filme 83533 salvo em dados/filme_83533.json
+2026-01-19 20:19:57,618 - pipeline - DEBUG - Filme 1242501 salvo em dados/filme_1242501.json
+2026-01-19 20:19:57,618 - pipeline - DEBUG - Filme 1084242 salvo em dados/filme_1084242.json
+2026-01-19 20:19:57,618 - pipeline - DEBUG - Filme 1368166 salvo em dados/filme_1368166.json
+2026-01-19 20:19:57,619 - pipeline - DEBUG - Filme 1252037 salvo em dados/filme_1252037.json
+2026-01-19 20:19:57,619 - pipeline - DEBUG - Filme 62029 salvo em dados/filme_62029.json
+2026-01-19 20:19:57,619 - pipeline - DEBUG - Filme 755898 salvo em dados/filme_755898.json
+2026-01-19 20:19:57,619 - pipeline - DEBUG - Filme 1311031 salvo em dados/filme_1311031.json
+2026-01-19 20:19:57,619 - pipeline - INFO - Todos os filmes salvos
+2026-01-19 20:19:57,620 - pipeline - INFO - Criando índice
+2026-01-19 20:19:57,620 - pipeline - INFO - Índice criado: 10 filmes
+2026-01-19 20:19:57,621 - pipeline - INFO - Gerando relatório
+2026-01-19 20:19:57,621 - pipeline - INFO - ==================================================
+2026-01-19 20:19:57,622 - pipeline - INFO - RELATÓRIO DA COLETA
+2026-01-19 20:19:57,622 - pipeline - INFO - ==================================================
+2026-01-19 20:19:57,623 - pipeline - INFO - Total de filmes: 10
+2026-01-19 20:19:57,623 - pipeline - INFO - Nota média: 6.83/10
+2026-01-19 20:19:57,624 - pipeline - INFO - Bem avaliados (>= 7.0): 7
+2026-01-19 20:19:57,624 - pipeline - INFO - Lucrativos: 5
+2026-01-19 20:19:57,625 - pipeline - INFO - Erros: 0
+2026-01-19 20:19:57,625 - pipeline - INFO - ==================================================
+2026-01-19 20:19:57,625 - pipeline - INFO - ==================================================
+2026-01-19 20:19:57,626 - pipeline - INFO - PIPELINE CONCLUÍDO COM SUCESSO

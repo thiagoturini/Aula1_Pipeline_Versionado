@@ -1,45 +1,45 @@
 [
   {
-    "id": 1242898,
-    "title": "Predador: Terras Selvagens",
-    "release_date": "2025-11-05",
-    "vote_average": 7.794
-  },
-  {
-    "id": 1242501,
-    "title": "Icefall",
-    "release_date": "2025-10-16",
-    "vote_average": 6.677
-  },
-  {
     "id": 1306368,
     "title": "Dinheiro Suspeito",
     "release_date": "2026-01-13",
-    "vote_average": 7.182
+    "vote_average": 7.204
+  },
+  {
+    "id": 1242898,
+    "title": "Predador: Terras Selvagens",
+    "release_date": "2025-11-05",
+    "vote_average": 7.795
   },
   {
     "id": 83533,
     "title": "Avatar: Fogo e Cinzas",
     "release_date": "2025-12-17",
-    "vote_average": 7.356
+    "vote_average": 7.355
+  },
+  {
+    "id": 1242501,
+    "title": "Icefall",
+    "release_date": "2025-10-16",
+    "vote_average": 6.565
   },
   {
     "id": 1084242,
     "title": "Zootopia 2",
     "release_date": "2025-11-26",
-    "vote_average": 7.61
-  },
-  {
-    "id": 1252037,
-    "title": "O Tanque de Guerra",
-    "release_date": "2025-09-18",
-    "vote_average": 7.021
+    "vote_average": 7.601
   },
   {
     "id": 1368166,
     "title": "A Empregada",
     "release_date": "2025-12-18",
-    "vote_average": 7.2
+    "vote_average": 7.191
+  },
+  {
+    "id": 1252037,
+    "title": "O Tanque de Guerra",
+    "release_date": "2025-09-18",
+    "vote_average": 7.05
   },
   {
     "id": 62029,
@@ -51,12 +51,12 @@
     "id": 755898,
     "title": "A Guerra dos Mundos",
     "release_date": "2025-07-29",
-    "vote_average": 4.222
+    "vote_average": 4.2
   },
   {
-    "id": 628847,
-    "title": "Boca de Fumo",
-    "release_date": "2025-11-14",
-    "vote_average": 6.5
+    "id": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
+    "release_date": "2025-07-18",
+    "vote_average": 7.644
   }
 ]
